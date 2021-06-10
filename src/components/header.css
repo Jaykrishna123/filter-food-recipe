@@ -1,0 +1,23 @@
+.header h1 {
+  color: #fff;
+  padding-top: 2rem;
+  text-align: center;
+}
+hr {
+  color: #fff;
+}
+.header__btn {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 2rem;
+}
+.header__btn button {
+  background-color: rgb(95, 103, 216);
+  color: #fff;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  border-radius: 2px;
+  padding: 10px 20px;
+}
